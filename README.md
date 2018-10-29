@@ -8,4 +8,4 @@ Material UI (https://material-ui.com/) is a library that allow us to use React c
 
 Here a video [https://www.youtube.com/watch?v=cJ86ykbIcrs&t=18s] in which I explain how use this library, using the base code of this repository 
 
-![Screenshot del ejemplo](https://raw.githubusercontent.com/VivianGomez/Material-UI-example/master/brand.png?style=centerme)
+![Screenshot del ejemplo](https://raw.githubusercontent.com/VivianGomez/Material-UI-example/master/page.PNG)
